@@ -1,0 +1,10 @@
+# python3.10
+torch
+torchvision
+numpy 
+scipy 
+matplotlib 
+tqdm 
+tensorboard 
+einops 
+timm
