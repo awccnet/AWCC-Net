@@ -31,8 +31,8 @@
 
 <table>
   <tr>
-    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/master/main/images/table1.png"> </td>
-    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/master/main/images/table2.png"> </td>
+    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/blob/master/images/table1.png"> </td>
+    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/blob/master/images/table2.png"> </td>
   </tr>
   <tr>
     <td align="center"><p><b>JHU-Crowd++</b></p></td>
