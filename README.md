@@ -10,16 +10,15 @@
 
 
 ## Architecture
-
 <table>
   <tr>
-    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/blob/main/images/architecture.png"> </td>
+    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/blob/master/images/architecture.png"> </td>
   </tr>
   <tr>
     <td align="center"><p><b>Overall Architecture</b></p></td>
   </tr>
   <tr>
-    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/blob/main/images/weather-adaptive-quries.png" height="250"> </td>
+    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/blob/master/images/weather-adaptive-quries.png" height="250"> </td>
   </tr>
   <tr>
     <td align="center"><p><b>Weather-adaptive Queries</b></p></td>
@@ -32,8 +31,8 @@
 
 <table>
   <tr>
-    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/blob/main/images/table1.png"> </td>
-    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/blob/main/images/table2.png"> </td>
+    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/master/main/images/table1.png"> </td>
+    <td align="center"> <img src = "https://github.com/awccnet/AWCC-Net/master/main/images/table2.png"> </td>
   </tr>
   <tr>
     <td align="center"><p><b>JHU-Crowd++</b></p></td>
