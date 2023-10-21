@@ -46,7 +46,7 @@
 
 #### Pre-trained Models
 
-* **JHU-Crowd++** &rarr; [coming soon](https://github.com/awccnet/AWCC-Net)
+* **JHU-Crowd++** &rarr; [google drive](https://drive.google.com/file/d/1Tu9VH0FmWyMTTwe8rqQt3gq_U2mUZGY3/view?usp=share_link)
 
 #### Install
 
